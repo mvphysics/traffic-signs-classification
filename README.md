@@ -36,9 +36,10 @@ Neural networks creation (4 for comparison) for multi-class image classification
  dense_1 (Dense)             (None, 20)                2580      
                                                                  
 =================================================================
-Total params: 238,740
-Trainable params: 238,740
-Non-trainable params: 0
+
+*Total params: 238,740
+*Trainable params: 238,740
+*Non-trainable params: 0
 
 # Comp_Int_sigmoid_vs3b
 * Model summary
