@@ -129,7 +129,7 @@ Neural networks creation (4 for comparison) for multi-class image classification
 
 # Comp_Int_softmax_vs3b
 * Model summary:
-*  Layer (type)                Output Shape              Param #   
+  Layer (type)                Output Shape              Param #   
 =================================================================
  conv2d (Conv2D)             (None, 124, 124, 32)      2432      
                                                                  
